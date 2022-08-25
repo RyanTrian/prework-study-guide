@@ -3,6 +3,7 @@
 ## Description
 
 This Prework Study Guide provide notes on topics of HTML, CSS, and Javascript for boot camp students who were going through the Prework.
+[Final product deploy on GitPages](https://ryantrian.github.io/prework-study-guide/)
 
 ## Installation
 
